@@ -21,9 +21,10 @@
 
 ### 👨‍💻 Featured Projects
 - [SOL Resume Chat](https://www.loom.com/share/ebb112d179714283975aaa3aa01bde93?sid=c6181746-c1fc-466f-b38d-62ffb2e131af) → AI-powered CV/chat tool for HR teams.  
-- [Amin Travels](https://amintravels.com.bd/) → Travel booking platform with **custom PHP CMS & AWS deployment**.  
+- [Amin Travels](https://amintravels.com.bd/) → Travel booking platform with **custom PHP , Wordpress & AWS deployment**.  
 - [The Post Grid](https://wordpress.org/plugins/the-post-grid/) → WordPress plugin (block editor + Elementor widgets).  
-- [OneName Global](https://onenameglobal.com/) → NFT marketplace built with **Laravel, React, Web3 integrations**.  
+- [OneName Global](https://onenameglobal.com/) → NFT marketplace built with **Laravel, React, Web3 integrations**.
+- [Jenok Wiper Blades](https://jenokwiperblades.com.au/) → Viper blades seller with custion filter built with **Wordpress, ACF, Woocommerceetc**.  
 
 👉 Explore all repositories: [GitHub Repos](https://github.com/sudiptadassp1?tab=repositories)
 
