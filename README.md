@@ -36,8 +36,6 @@
 
 📫 Reach me at: **dassuva02@gmail.com**
 
-📄 View my resume: [My CV (Google Docs)]([https://docs.google.com/document/d/14-zedn7aucFVxK_teX2y8E8bnFLeUS-IqK7LWjLk17A/edit?usp=sharing](https://docs.google.com/document/d/1ZV2M-EhL8_aJt-5gt-LoaxapFXPBoNiXHLEU4wgkbTA/edit?tab=t.0#heading=h.4d6lc7abqx4v))
-
 ---
 
 ### 🌐 Connect With Me
