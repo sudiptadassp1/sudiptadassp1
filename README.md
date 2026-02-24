@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 Current Work
-- Building [**CarbsTracker**](https://carbstracker.com) → Nutrition & calorie tracking platform using **FastAPI + PHP + Redis**.  
+- Built [**SOL Resume Chat**]([https://carbstracker.com](https://www.loom.com/share/ebb112d179714283975aaa3aa01bde93?sid=c6181746-c1fc-466f-b38d-62ffb2e131af)) → AI-powered CV/chat tool for HR teams. developed with **Next JS + Open AI + Python**.  
 - Leading development of **custom CMS and AI tools** at [Silicon Orchard Ltd.](https://www.siliconorchard.com/).  
 
 ---
